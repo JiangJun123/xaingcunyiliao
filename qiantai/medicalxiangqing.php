@@ -47,14 +47,14 @@
             <a	href="home.html"><img	src="../img/yemianqiehuan.png"	style="margin-left: 50px;height: 40px;width: 200px;margin-top: 40px;border-radius: 10px"   ></a>
         </div>
     </div>
-
     <div	style="width:724px ;background-color:  ;height: 768px;float: left;position: relative">
         <img	src="../img/beijing.png"	alt="图片无法显示，可能丢失或者其他错误"	style="width: 724px;height: 768px" />
         <div style="position: absolute;width:724px;height: 768px">
-            <img src="../img/shilitu.png"    style="width: 340px;height: 500px;margin-left: 34px;">
-
-            <div    style="background-color: #333333;height:500px;width: 260px;margin-left: 374px;">1234</div>
-            <img src="../img/shiliditu.png"    style="width: 600px;height: 230px;margin-left: 34px;">
+            <img src="../img/xiangqin1.png"    style="width: 200px;height:180px;margin-left: 34px;margin-top: 50px">
+            <img src="../img/xaingqin2.png"    style="width: 350px;height:180px;margin-top: 50px">
+            <img src="../img/xiushitu.png"    style="width: 550px;height:200px;margin-top: ;margin-left: 34px">
+            <img src="../img/xaingqin3.png"    style="width:350px;height:180px;margin-top: ;margin-left: 34px">
+            <img src="../img/xaingqin4.png"    style="width: 200px;height:180px;margin-top: ;">
         </div>
     </div>
 </div>

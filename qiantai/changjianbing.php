@@ -14,7 +14,7 @@
     <style>
         body {font-size:100%;margin:0 auto;}
         button { font-size:2.5em;}
-
+        img{float:left;}
     </style>
 </head>
 <body>
@@ -44,14 +44,21 @@
             <img src="../img/logo.png"	style="margin-top: 20px;height: 120px;width: 120px;margin-left: 100px;border-radius: 10px">
         </div>
         <div >
-            <a><img	src="../img/yemianqiehuan.png"	style="margin-left: 50px;height: 40px;width: 200px;margin-top: 40px;border-radius: 10px"   ></a>
+            <a	href="home.html"><img	src="../img/yemianqiehuan.png"	style="margin-left: 50px;height: 40px;width: 200px;margin-top: 40px;border-radius: 10px"   ></a>
         </div>
     </div>
-    <div	style="width:724px ;background-color:#FFD700 ;height: 768px;float: left;">
-        <img	src="../img/beijing.png"	alt="图片无法显示，可能丢失或者其他错误"	style="height: 768px;width:724px;" />
+
+    <div	style="width:724px ;background-color:  ;height: 768px;float: left;position: relative">
+        <img	src="../img/beijing.png"	alt="图片无法显示，可能丢失或者其他错误"	style="width: 724px;height: 768px" />
+       <div style="position: absolute;width:724px;height: 768px">
+            <a  href="gxy.php"><img src="../img/gxy.png"    style="width: 340px;height: 200px;margin-left: 34px;margin-top: 60px"></a>
+            <a  href="fs.php"><img src="../img/fs.png"    style="width: 340px;height: 200px;margin-left: 0px;margin-top: 60px"></a>
+            <a  href=""><img src="../img/xiushitu.png"    style="width: 680px;height: 200px;margin-left: 34px;;margin-top: 0px"></a>
+            <a  href="kq.php"><img src="../img/kq.png"    style="width: 340px;height: 200px;margin-left: 34px;"></a>
+            <a  href="jzx.php"><img src="../img/jzx.png"    style="width: 340px;height: 200px;margin-left: 0px;"></a>
+       </div>
     </div>
 </div>
-
 </body>
 </html>
 

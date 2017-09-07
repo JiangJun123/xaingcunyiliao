@@ -48,13 +48,11 @@
         </div>
     </div>
 
-    <div	style="width:724px ;background-color:  ;height: 768px;float: left;position: relative">
+    <div	style="width:724px ;background-color: red ;height: 768px;float: left;position: relative">
         <img	src="../img/beijing.png"	alt="图片无法显示，可能丢失或者其他错误"	style="width: 724px;height: 768px" />
         <div style="position: absolute;width:724px;height: 768px">
-            <img src="../img/shilitu.png"    style="width: 340px;height: 500px;margin-left: 34px;">
+            <a  href="gxy.php"><img src="../img/shilitu.png"    style="width: 340px;height: 500px;margin-left: 34px;"></a>
 
-            <div    style="background-color: #333333;height:500px;width: 260px;margin-left: 374px;">1234</div>
-            <img src="../img/shiliditu.png"    style="width: 600px;height: 230px;margin-left: 34px;">
         </div>
     </div>
 </div>

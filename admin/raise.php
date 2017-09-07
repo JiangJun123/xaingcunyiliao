@@ -1,7 +1,7 @@
 <?php
 
 ?>
-<html>
+<html xmlns:font-size="http://www.w3.org/1999/xhtml">
 	<head>
 		<meta charset="utf-8" >
 		<title>乡村医疗建设</title>
@@ -23,25 +23,13 @@
 			</div>
 			<div	style="width: 200px;height: 668px;background-color:#C0C0C0;float: left;">
 			        <div >
-			                <li style="width: 200px;height: 100px;background-color: azure;float: left;">
-			                    <a href="guanli.php"	style="text-align: center;" >版块管理</a>
-			                </li>
-			                <li	style="width: 200px;height: 100px;float: left;"	>
-			                    <a href="changjianbin.php">常见病</a>
-			                </li>
-			                <li	style="width: 200px;height: 100px;background-color: azure;float: left">
-			                    <a href="medical.php">医疗</a>
-			                </li>
-			                <li	style="width: 200px;height: 100px;float: left">
-			                    <a href="user.php">用户管理 </a>
-			                </li>
-			                 <li	style="width: 200px;height: 100px;background-color: azure;float: left">
-			                    <a href="raise.php">众筹 </a>
-			                </li>
+                        <a  href="gaishan.php"><img src="../img/gaishan.png" style="width: 200px;height: 100px;float: left;"></a>
+                        <a  href="changjianbin.php"><img src="../img/changjianbing.png" style="width: 200px;height: 100px;float: left;"></a>
+                        <a  href="raise.php"><img src="../img/zanzhu2.png" style="width: 200px;height: 100px;float: left;"></a>
 			       	</div>
    		 	</div>
    		 	<div	style="width: 824px;height: 668px;background-color: cornflowerblue;float: left;">
-   		 		<b	style="align-content: center;font-size: 3.5em;">众筹</b>
+   		 		<b	style="align-content: center;font-size: 3.5em;">尚未开发</b>
    		 	</div>
 		</div>
 	</body>

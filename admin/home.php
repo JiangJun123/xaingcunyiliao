@@ -1,7 +1,9 @@
 <?php
 
 ?>
-<html xmlns:font-size="http://www.w3.org/1999/xhtml">
+<html xmlns:font-size="http://www.w3.org/1999/xhtml" xmlns:cornflowerblue xmlns:cornflowerblue xmlns:cornflowerblue
+      xmlns:668px xmlns:824px xmlns:cornflowerblue xmlns:cornflowerblue xmlns:cornflowerblue
+      xmlns:width="http://www.w3.org/1999/xhtml" xmlns:824px xmlns:824px xmlns:824px>
 	<head>
 		<meta charset="utf-8" >
 		<title>乡村医疗建设</title>
@@ -9,9 +11,6 @@
 			body {font-size:100%;margin:0 auto;}
 			h1 { font-size:2.5em;}
 			div{padding:0;margin-top:0;}
-			li{font-size: 1.5em;padding:0;margin-top:0;list-style: none;display:block;text-align:center }
-			a{text-align: center;}
-			
 		</style>
 	</head>
 	<body>
@@ -22,27 +21,13 @@
 				</h1>
 			</div>
 			<div	style="width: 200px;height: 668px;background-color:#C0C0C0;float: left;">
-			        <div >
-			                <li style="width: 200px;height: 100px;background-color: azure;float: left;">
-			                    <a href="guanli.php"	style="text-align: center;" >版块管理</a>
-			                </li>
-			                <li	style="width: 200px;height: 100px;float: left;"	>
-			                    <a href="changjianbin.php">常见病</a>
-			                </li>
-			                <li	style="width: 200px;height: 100px;background-color: azure;float: left">
-			                    <a href="medical.php">医疗</a>
-			                </li>
-			                <li	style="width: 200px;height: 100px;float: left">
-			                    <a href="user.php">用户管理 </a>
-			                </li>
-			                 <li	style="width: 200px;height: 100px;background-color: azure;float: left">
-			                    <a href="raise.php">众筹 </a>
-			                </li>
-			       	</div>
+                        <a  href="gaishan.php"><img src="../img/gaishan.png" style="width: 200px;height: 100px;float: left;"></a>
+                        <a  href="changjianbin.php"><img src="../img/changjianbing.png" style="width: 200px;height: 100px;float: left;"></a>
+			            <a  href="raise.php"><img src="../img/zanzhu2.png" style="width: 200px;height: 100px;float: left;"></a>
    		 	</div>
    		 	<div	style="width: 824px;height: 668px;background-color: cornflowerblue;float: left;">
-   		 		<b	style="align-content: center;font-size: 3.5em;">主页</b>
-   		 	</div>
+
+            </div>
 		</div>
 	</body>
 </html>

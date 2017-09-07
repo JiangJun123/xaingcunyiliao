@@ -48,15 +48,14 @@
         </div>
     </div>
 
-    <div	style="width:724px ;background-color:  ;height: 768px;float: left;position: relative">
+    <div	style="width:724px ;background-color: ;height: 768px;float: left;position: relative">
         <img	src="../img/beijing.png"	alt="图片无法显示，可能丢失或者其他错误"	style="width: 724px;height: 768px" />
         <div style="position: absolute;width:724px;height: 768px">
-            <img src="../img/shilitu.png"    style="width: 340px;height: 500px;margin-left: 34px;">
+            <img src="../img/gxy.png"   style="margin-top: 50px;height: 150px;width: 200px;margin-left: 50px">
+            <img src="../img/gxyt.png"   style="margin-top: 50px;height: 150px;width: 200px;margin-left: 50px">
 
-            <div    style="background-color: #333333;height:500px;width: 260px;margin-left: 374px;">1234</div>
-            <img src="../img/shiliditu.png"    style="width: 600px;height: 230px;margin-left: 34px;">
+            <div    style="background-color: #333333;height: 400px;width: 450px;margin-left: 50px;margin-top: 250px">要提交的数据</div>
         </div>
-    </div>
 </div>
 
 </body>

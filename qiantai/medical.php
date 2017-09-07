@@ -14,7 +14,7 @@
     <style>
         body {font-size:100%;margin:0 auto;}
         button { font-size:2.5em;}
-
+        img{float:left;}
     </style>
 </head>
 <body>
@@ -44,11 +44,15 @@
             <img src="../img/logo.png"	style="margin-top: 20px;height: 120px;width: 120px;margin-left: 100px;border-radius: 10px">
         </div>
         <div >
-            <a><img	src="../img/yemianqiehuan.png"	style="margin-left: 50px;height: 40px;width: 200px;margin-top: 40px;border-radius: 10px"   ></a>
+            <a	href="home.html"><img	src="../img/yemianqiehuan.png"	style="margin-left: 50px;height: 40px;width: 200px;margin-top: 40px;border-radius: 10px"   ></a>
         </div>
     </div>
-    <div	style="width:724px ;background-color:#FFD700 ;height: 768px;float: left;">
-        <img	src="../img/beijing.png"	alt="图片无法显示，可能丢失或者其他错误"	style="height: 768px;width:724px;" />
+    <div	style="width:724px ;background-color:  ;height: 768px;float: left;position: relative">
+        <img	src="../img/beijing.png"	alt="图片无法显示，可能丢失或者其他错误"	style="width: 724px;height: 768px" />
+        <div style="position: absolute;width:724px;height: 768px">
+            <a  href="medicalxiangqing.php"><img src="../img/xianzhuang.png"    style="width: 500px;height:600px;margin-left: 34px;margin-top: 50px"></a>
+
+        </div>
     </div>
 </div>
 

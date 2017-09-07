@@ -14,7 +14,7 @@
     <style>
         body {font-size:100%;margin:0 auto;}
         button { font-size:2.5em;}
-
+        img{float:left;}
     </style>
 </head>
 <body>
@@ -44,11 +44,19 @@
             <img src="../img/logo.png"	style="margin-top: 20px;height: 120px;width: 120px;margin-left: 100px;border-radius: 10px">
         </div>
         <div >
-            <a><img	src="../img/yemianqiehuan.png"	style="margin-left: 50px;height: 40px;width: 200px;margin-top: 40px;border-radius: 10px"   ></a>
+            <a	href="home.html"><img	src="../img/yemianqiehuan.png"	style="margin-left: 50px;height: 40px;width: 200px;margin-top: 40px;border-radius: 10px"   ></a>
         </div>
     </div>
-    <div	style="width:724px ;background-color:#FFD700 ;height: 768px;float: left;">
-        <img	src="../img/beijing.png"	alt="图片无法显示，可能丢失或者其他错误"	style="height: 768px;width:724px;" />
+    <div	style="width:724px ;background-color: ;height: 768px;float: left;position: relative">
+        <img	src="../img/beijing.png"	alt="图片无法显示，可能丢失或者其他错误"	style="width: 724px;height: 768px" />
+        <div style="position: absolute;width:724px;height: 768px">
+            <img src="../img/raise1.png"   style="margin-top: 50px;height: 250px;width: 600px;margin-left: 50px">
+            <button type="button" style="width: 100px;height: 100px;margin-top: 50px;margin-left: 50px;border-radius: 90%;background-color: #333333;"  value="捐款">捐款</button>
+            <button type="button" style="width: 100px;height: 100px;margin-top: 50px;margin-left: 80px;border-radius: 90%;background-color: #333333;"  value="志愿">志愿</button>
+            <button type="button" style="width: 100px;height: 100px;margin-top: 50px;margin-left: 80px;border-radius: 90%;background-color: #333333;"  value="技术">技术</button>
+            <img src="../img/raise2.png"    style="margin-left: 50px;margin-top: 50px;height: 200px;width: 290px">
+            <img src="../img/raise3.png"   style="margin-left: 20px;margin-top: 50px;height: 200px;width: 290px" >
+        </div>
     </div>
 </div>
 

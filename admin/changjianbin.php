@@ -1,7 +1,7 @@
 <?php
 
 ?>
-<html>
+<html xmlns:font-size="http://www.w3.org/1999/xhtml" xmlns:824px>
 	<head>
 		<meta charset="utf-8" >
 		<title>乡村医疗建设</title>
@@ -11,7 +11,7 @@
 			div{padding:0;margin-top:0;}
 			li{font-size: 1.5em;padding:0;margin-top:0;list-style: none;display:block;text-align:center }
 			a{text-align: center;}
-			
+			img{float: left}
 		</style>
 	</head>
 	<body>
@@ -22,26 +22,16 @@
 				</h1>
 			</div>
 			<div	style="width: 200px;height: 668px;background-color:#C0C0C0;float: left;">
-			        <div >
-			                <li style="width: 200px;height: 100px;background-color: azure;float: left;">
-			                    <a href="guanli.php"	style="text-align: center;" >版块管理</a>
-			                </li>
-			                <li	style="width: 200px;height: 100px;float: left;"	>
-			                    <a href="changjianbin.php">常见病</a>
-			                </li>
-			                <li	style="width: 200px;height: 100px;background-color: azure;float: left">
-			                    <a href="medical.php">医疗</a>
-			                </li>
-			                <li	style="width: 200px;height: 100px;float: left">
-			                    <a href="user.php">用户管理 </a>
-			                </li>
-			                 <li	style="width: 200px;height: 100px;background-color: azure;float: left">
-			                    <a href="raise.php">众筹 </a>
-			                </li>
-			       	</div>
+                <a  href="gaishan.php"><img src="../img/gaishan.png" style="width: 200px;height: 100px;float: left;"></a>
+                <a  href="changjianbin.php"><img src="../img/changjianbing.png" style="width: 200px;height: 100px;float: left;"></a>
+                <a  href="raise.php"><img src="../img/zanzhu2.png" style="width: 200px;height: 100px;float: left;"></a>
    		 	</div>
    		 	<div	style="width: 824px;height: 668px;background-color: cornflowerblue;float: left;">
-   		 		<b	style="align-content: center;font-size: 3.5em;">常见病</b>
+                <a  href="gxy.php"><img src="../img/gxy.png"    style="width: 340px;height: 200px;margin-left: 34px;margin-top: 60px"></a>
+                <a  href="fs.php"><img src="../img/fs.png"    style="width: 340px;height: 200px;margin-left: 0px;margin-top: 60px"></a>
+                <a  href=""><img src="../img/xiushitu.png"    style="width: 680px;height: 200px;margin-left: 34px;;margin-top: 0px"></a>
+                <a  href="kq.php"><img src="../img/kq.png"    style="width: 340px;height: 200px;margin-left: 34px;"></a>
+                <a  href="jzx.php"><img src="../img/jzx.png"    style="width: 340px;height: 200px;margin-left: 0px;"></a>
    		 	</div>
 		</div>
 	</body>
